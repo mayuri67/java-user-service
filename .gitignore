@@ -1,0 +1,23 @@
+gitignore
+target/
+*.class
+*.jar
+.idea/
+.vscode/
+*.log
+.DS_Store
+# Maven build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Local environment files
+.env
